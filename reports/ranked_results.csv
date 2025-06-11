@@ -1,0 +1,31 @@
+circuit_name,num_nodes,num_edges,avg_degree,area,complexity_score,rank_by_complexity,rank_by_area,decision
+circuit_1,4,4,2.0,79.66,3.6,26,27,Reuse existing layout
+circuit_2,6,7,2.33,80.53,5.57,22,26,Reuse existing layout
+circuit_3,4,9,4.5,117.13,5.6,21,14,Reuse existing layout
+circuit_4,11,11,2.0,143.62,9.2,10,6,Semi-Automated (template-based)
+circuit_5,3,3,2.0,43.75,2.8,30,30,Reuse existing layout
+circuit_6,6,10,3.33,114.03,6.67,18,16,Reuse existing layout
+circuit_7,11,12,2.18,151.34,9.54,7,4,Semi-Automated (template-based)
+circuit_8,11,14,2.55,137.07,10.21,5,8,Semi-Automated (template-based)
+circuit_9,12,14,2.33,167.33,10.67,3,1,Semi-Automated (template-based)
+circuit_10,3,4,2.67,77.98,3.23,28,28,Reuse existing layout
+circuit_11,8,10,2.5,103.72,7.5,13,21,Reuse existing layout
+circuit_12,8,8,2.0,93.71,6.8,17,23,Reuse existing layout
+circuit_13,4,6,3.0,98.9,4.4,25,22,Reuse existing layout
+circuit_14,12,14,2.33,167.24,10.67,3,2,Semi-Automated (template-based)
+circuit_15,10,14,2.8,126.99,9.76,6,10,Semi-Automated (template-based)
+circuit_16,9,9,2.0,122.08,7.6,12,12,Reuse existing layout
+circuit_17,12,14,2.33,158.04,10.67,3,3,Semi-Automated (template-based)
+circuit_18,4,4,2.0,76.45,3.6,26,29,Reuse existing layout
+circuit_19,7,7,2.0,114.21,6.0,20,15,Reuse existing layout
+circuit_20,4,7,3.5,83.62,4.8,24,24,Reuse existing layout
+circuit_21,8,9,2.25,108.56,7.15,14,18,Reuse existing layout
+circuit_22,6,11,3.67,105.73,7.03,16,19,Reuse existing layout
+circuit_23,4,8,4.0,105.4,5.2,23,20,Reuse existing layout
+circuit_24,11,16,2.91,143.44,10.88,1,7,Semi-Automated (template-based)
+circuit_25,10,13,2.6,129.8,9.42,9,9,Semi-Automated (template-based)
+circuit_26,11,12,2.18,150.08,9.54,7,5,Semi-Automated (template-based)
+circuit_27,3,4,2.67,82.92,3.23,28,25,Reuse existing layout
+circuit_28,8,11,2.75,111.96,7.85,11,17,Reuse existing layout
+circuit_29,6,10,3.33,125.0,6.67,18,11,Reuse existing layout
+circuit_30,8,9,2.25,119.97,7.15,14,13,Reuse existing layout
