@@ -14,20 +14,35 @@ A ML-powered tool to automate and accelerate full-custom analog IC layout estima
 ## 📂 Folder Structure
 
 AnalogLayoutML/
+
 ├── app.py   # Streamlit App Entry Point
+
 ├── utils/
+
 │ └── rank_circuits.py    # Ranking Logic
+
 ├── feature_extractor/
+
 │ └── extract_features.py     # Netlist Feature Extraction
+
 ├── circuit_data/
+
 │ └── netlists/     # Uploaded .sp Netlists
+
 ├── reports/
+
 │ └── ranked_results.csv     # Auto-Generated Rankings
+
 ├── ml_model/
+
 │ └── model.pkl       # Trained Model
+
 ├── train_model.py     # One-Time Training Script
+
 ├── requirements.txt      # Project Dependencies
+
 └── README.md       # Project Overview
+
 └── Launch_analogtool.bat     #To run the tool directly in the default browser without command line
 
 ## Installation and Launch
