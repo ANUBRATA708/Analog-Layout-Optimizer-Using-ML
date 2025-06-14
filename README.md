@@ -30,20 +30,35 @@
 
 
 AnalogLayoutML/
+
 ├── app.py                      # Streamlit App Entry Point
+
 ├── Launch_analogtool.bat       # Launches the tool directly in browser
+
 ├── utils/
+
 │   └── rank_circuits.py        # Circuit ranking logic
+
 ├── feature_extractor/
+
 │   └── extract_features.py     # Netlist feature extraction
+
 ├── circuit_data/
+
 │   └── netlists/               # Uploaded .sp netlist files
+
 ├── reports/
+
 │   └── ranked_results.csv      # Auto-generated results
+
 ├── ml_model/
+
 │   └── model.pkl               # Trained ML model (Linear Regression)
+
 ├── train_model.py              # One-time training script
+
 ├── requirements.txt            # Python dependencies
+
 └── README.md                   # Project overview
 
 ## 💻 Installation & Launch Instructions
